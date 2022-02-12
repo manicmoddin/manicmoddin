@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manicmoddin
-- 👀 I’m interested in monitoring many things. Envionment, energy usage, patterns etc. I am passionate about automation  wherever posible, and to this end am underigoing a process of automating the ouse eith home assistant.
+- 👀 I’m interested in monitoring many things. Envionment, energy usage, patterns etc. I am passionate about automation  wherever posible, and to this end am underigoing a process of automating the house with home assistant.
 - 🌱 I’m currently learning the principals of devOps... Docker, Terraform, Lambdas, Python within my professional life, in the spare time its aruduinos, pis, cars.
 
 <!---
